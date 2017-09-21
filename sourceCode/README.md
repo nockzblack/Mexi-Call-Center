@@ -1,0 +1,1 @@
+The source code is separated for definition (.h) and implementation (.cpp)
